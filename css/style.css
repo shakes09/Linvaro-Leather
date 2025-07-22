@@ -44,6 +44,28 @@ header {
   display: block;
 }
 
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo-text {
+  font-family: 'Great Vibes', cursive; /* or any other cursive font you added */
+  font-size: 1.8rem;
+}
+
+.linvaro {
+  color: #7ecb75; /* soft green */
+}
+
+.leathers {
+  color: #4b3621; /* dark brown */
+}
+
+
+
+
 /* Navigation */
 nav ul {
   display: flex;
